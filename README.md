@@ -1,2 +1,2 @@
-# AndroidOpenSourceDemo
-Android Open Source Demo
+# AndroidOpenSourceLibraryDemo
+一个安卓开源库Demo
